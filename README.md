@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourav Saha</h1>
-<h3 align="center">A passionate Full Stack Developer from India, also have an interest in JavaScript and Python</h3>
+<h3 align="center">A passionate Full Stack Developer have an interest in AI/ML</h3>
 
 [![An image of @sourav1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sourav1234)](https://holopin.io/@sourav1234)
 <p align="left"> <a href="https://twitter.com/souravs90555409" target="blank"><img src="https://img.shields.io/twitter/follow/souravs90555409?logo=twitter&style=for-the-badge" alt="souravs90555409" /></a> </p>
